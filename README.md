@@ -1,2 +1,2 @@
 # election-analysis
-2018 U.S. Election Result Analysis
+A collaboration project with Ziyi Ding, Laura Li, Nei Fang, Tina Chen on 2018 U.S. Election results analysis. The dataset used and the source from which we obtained them are detailed in the report. My task focused on data cleaning using string manipulation, string matching candidate information between datasets with rapidfuzz, conducting EDA with seaborn and causal inference for Republican candidates. I estimated the treatment effect and validated it with bootstrapping.
